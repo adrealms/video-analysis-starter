@@ -8,7 +8,7 @@ Drop a folder of `.mp4`/`.mov` files into the project, tell Claude to analyze th
 
 ## See it in action
 
-▶ **[Watch the 60-second demo](assets/demo.mp4)** — interactive walkthrough of the dashboard, video analysis, and click-to-seek navigation.
+https://github.com/user-attachments/assets/8e14880b-3004-4942-a88d-e4f728f99006
 
 ## What you get
 
