@@ -1,0 +1,32 @@
+# Secrets — never commit
+.env
+
+# Video files (typically too large for git, and may be client-confidential)
+videos/**/*.mp4
+videos/**/*.mov
+videos/**/*.webm
+videos/**/*.m4v
+videos/**/*.mkv
+
+# Generated analysis artifacts
+videos/**/*.gemini.md
+videos/**/analysis/
+videos/**/dashboard/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+.venv/
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editors
+.vscode/
+.idea/
+*.swp
