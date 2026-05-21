@@ -6,6 +6,20 @@ Drop a folder of `.mp4`/`.mov` files into the project, tell Claude to analyze th
 
 **Time to first dashboard from a clean machine:** ~30 minutes for setup, then ~5 minutes per batch of 10-20 videos.
 
+## See it in action
+
+▶ **[Watch the 60-second demo](assets/demo.mp4)** — interactive walkthrough of the dashboard, video analysis, and click-to-seek navigation.
+
+## What you get
+
+**Project dashboard** — every analyzed video as a card with concept type, brand, format, and one-sentence key takeaway. Cross-video pattern stats at the top.
+
+![Dashboard preview](assets/dashboard.png)
+
+**Per-video analysis** — sticky video player on the left, scrollable Hook / Body / CTA tables on the right. Click any timestamp in the tables to jump the video to that exact moment.
+
+![Per-video analysis](assets/video-detail.png)
+
 ---
 
 ## What you'll need before starting
